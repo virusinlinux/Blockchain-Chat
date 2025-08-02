@@ -18,7 +18,7 @@
 
 ## 🎥 Live Demo  
 ![Blockchain Chat Demo](assets/demo_placeholder.gif)  
-> _Swap in your actual demo GIF to show your app in action._
+> _Available Below._
 
 ---
 
