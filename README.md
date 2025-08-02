@@ -168,9 +168,12 @@ Open an issue, drop a feature request, or submit a PR. This is a growth playgrou
 ---
 
 
-
 ## 📜 License  
 
 MIT License — do your thing, just keep it open source.  
+
+![App UI](https://github.com/user-attachments/assets/af45b1c9-b567-4cf5-8576-4b4fca0ebbe0)
+
+![App UI](https://github.com/user-attachments/assets/a81fa0e7-ca16-4042-a496-da6e36625800)
 
 
